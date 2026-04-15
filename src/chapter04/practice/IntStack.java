@@ -1,5 +1,7 @@
 package chapter04.practice;
 
+// Practice 4-1
+
 public class IntStack {
     private int[] stk;
     private int capacity;
